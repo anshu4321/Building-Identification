@@ -1,6 +1,5 @@
 # Building-Identification
-The goal is to identify buildings by applying image segmentation algorithms on satellite images. We are going to generate the
-training data by using the google maps API, this will give us the satellite image as well as the street view of the image. 
+The goal is to identify buildings from satellite images. We are going to generate the images by using the google maps API, this will give us the satellite image as well as the street view of the image. 
 
 
 ![alt text](https://github.com/anshu4321/Building-Identification/blob/master/Images/Screen%20Shot%202018-04-09%20at%206.21.49%20AM.png)
